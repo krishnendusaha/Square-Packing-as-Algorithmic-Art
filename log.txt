@@ -1,0 +1,6653 @@
+distance_calc started
+distance_calc ended 
+Now :40
+r:40a:0
+distance recalc
+r:40a:45
+distance recalc
+r:40a:0
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:0
+distance recalc
+r:40a:45
+distance recalc
+r:40a:0
+distance recalc
+r:40a:45
+distance recalc
+r:40a:0
+distance recalc
+r:40a:0
+distance recalc
+r:40a:0
+distance recalc
+r:40a:0
+distance recalc
+r:40a:0
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:0
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:0
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+r:40a:0
+distance recalc
+r:40a:45
+distance recalc
+r:40a:0
+distance recalc
+r:40a:45
+distance recalc
+r:40a:45
+distance recalc
+Now :30
+r:30a:45
+distance recalc
+r:30a:0
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:0
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+r:30a:45
+distance recalc
+Now :20
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:0
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:0
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+r:20a:45
+distance recalc
+Now :10
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:0
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:0
+distance recalc
+r:10a:0
+distance recalc
+r:10a:0
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:30
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:0
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+r:10a:45
+distance recalc
+Now :8
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+r:8a:45
+distance recalc
+Now :6
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+r:6a:45
+distance recalc
+Now :5
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+r:5a:45
+distance recalc
+Now :4
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+r:4a:45
+distance recalc
+0.6726914498358605
+Done123
+distance_calc started
+distance_calc ended 
+Now :80
+Now :60
+Now :40
+Now :30
+Now :20
+Now :10
+Now :8
+Now :6
+Now :5
+Now :4
+0.12280401222708916
